@@ -13,10 +13,7 @@ Using the command line BLAST has some advantages over the NCBI web site.  Its ea
  
 
 ## Walkthrough
-ssh onto to the blnx1 server, clone the class repo
-
-    git clone March03_2016
-    cd March03_2016
+ssh onto to the blnx1 server.
 
 First, we will copy some sequences that will be used to make a database and queries. In this case, _Bcereus_complete_genomes.fasta_ is a set of complete whole genome sequences of the bacterium *Bacillus cereus* sensu lato.  These were downloaded  earlier from NCBI using the Entrez query,  
 
